@@ -9,3 +9,5 @@
 - 📫 How to reach me: Discord - KodenameKRAK#0876
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I dont know what i'm doing!
+
+![stats](https://github-readme-stats.vercel.app/api?username=kodenamekrak&theme=dark)
